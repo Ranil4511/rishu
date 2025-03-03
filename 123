@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Anil Kumar</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>KARNATAKAPU ANIL KUMAR</h1>
+            <p>H No: 5-7-30, Plot no 53, B N Reddy Nagar, LB Nagar, Hyderabad</p>
+            <p>Phone: 9703304511 | Email: anil.ssrcp@gmail.com</p>
+        </header>
+        <section>
+            <h2>Objective</h2>
+            <p>Sincerity, dedication & loyalty towards my work and organization are my positive traits. I can exhibit my knowledge and skills to the best of my abilities.</p>
+        </section>
+        <section>
+            <h2>Personal Skills</h2>
+            <ul>
+                <li>Knowledge of contemporary hospital pharmacy, distributive services, education.</li>
+                <li>Excellent Communication skills.</li>
+                <li>Ability to interact constructively with diverse teams.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Educational Qualifications</h2>
+            <table>
+                <tr><th>Qualification</th><th>Institute</th><th>Year</th><th>Aggregate</th></tr>
+                <tr><td>PhD</td><td>SJJT UNIVERSITY, Rajasthan</td><td>June 2023 (Thesis Submitted)</td><td>-</td></tr>
+                <tr><td>M. Pharm (Pharmaceutics)</td><td>Swamivivekananda College of Pharmaceutical Sciences, JNTU-H</td><td>2011-2013</td><td>80.06%</td></tr>
+                <tr><td>B. Pharm</td><td>Smt Sarojini Rammulamma College Of Pharmacy</td><td>2004-07</td><td>62%</td></tr>
+            </table>
+        </section>
+        <section>
+            <h2>Work Experience</h2>
+            <ul>
+                <li>Assistant Professor, Netaji Institute of Pharmaceutical Sciences (2013-2019)</li>
+                <li>Assistant Professor, Samskruti College of Pharmacy (2019-2020)</li>
+                <li>Lecturer, GBN College of Pharmacy (2 Years)</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Personal Profile</h2>
+            <p><strong>Date of Birth:</strong> 12-08-1984</p>
+            <p><strong>Nationality:</strong> Indian</p>
+            <p><strong>Languages Known:</strong> English, Hindi, Telugu</p>
+        </section>
+    </div>
+</body>
+</html>
